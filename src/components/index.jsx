@@ -10,7 +10,7 @@ import Hero from "./Hero";
 import Navbar from "./Navbar";
 import Stats from "./Stats";
 import Testimonials from "./Testimonials";
-import Button from "./Button";
+import Button from "./Button";  
 
 export {
     Navbar,
